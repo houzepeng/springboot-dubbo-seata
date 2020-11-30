@@ -1,0 +1,15 @@
+POST http://localhost:8011/create_order
+Content-Type: application/json
+
+{
+  "orderNo": "22211111",
+  "userId": "111",
+  "commodityCode": "1111",
+  "count": 1,
+  "amount": 200
+
+
+
+}
+
+###

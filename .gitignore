@@ -1,0 +1,8 @@
+*.iml
+.idea
+/target/
+
+# Project exclude paths
+/springboot-dubbo-common/target/
+/springboot-dubbo-order/target/
+/springboot-dubbo-storage/target/
